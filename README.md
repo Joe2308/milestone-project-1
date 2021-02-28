@@ -1,45 +1,39 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone Project 1
 
-Welcome USER_NAME,
+This project is based on a corporate events / wedding band that has a growing fan base in Ireland and the Uk. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The main objectives for the site are to book more gigs and also gain more followers on social media. 
 
-## Gitpod Reminders
+# UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Based on my user story, this website is designed for three types of users:
 
-`python3 -m http.server`
+1. Companies that are looking to book exciting corporate entertainment for an upcoming social or team building event.
+1. Wedding couples that are looking to book great live entertainment for their wedding reception.
+1. Fans and followers that know the band and have been to previous events but would like to find out more about the band and where to find and follow us on social media.
 
-A blue button should appear to click: *Make Public*,
+## User 1 - Corporate Bookings
+From research many of small to medium size companies hold up to 3 social events and 10 team building events each business year. These can range from gala dinners to motivational speaking and of course the annual Christmas Party.
 
-Another blue button should appear to click: *Open Browser*.
+Each of these events require appropriate professional entertainment. The purpose of our website is to provide information on the band's experience with corporate entertainment while also showing the user a live video of the band in action entertaining at a large function. This shows the user they have come to right place and our band the only band for your event.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+From here we will simply guide our user to fill out our contact form and proceed with a swift booking of the band based on availability. 
 
-A blue button should appear to click: *Make Public*,
+We understand our corporate users are very busy and have other commitments to their day, our website's visual and text content assures them they are making the correct choice and can now focus their attention on other tasks.
 
-Another blue button should appear to click: *Open Browser*.
+## User 2 - Wedding Couples
+From researching the wedding industry we have seen that this is a very different type of user to corporate bookings. Many Brides and Grooms prefer to most of their own planning and the planning in itself becomes a ritual in the 12 to 24 months leading up to a wedding. Couples wil create checklists and budgets starting from wedding dress and venue and work their way down to finer details of inviations and honeymoon destinations.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+There are on average 20,000 weddings in Ireland alone each year with an average cost of €28000 for a wedding. Our research tells us wedding couples use strict budgets and enjoy attending fairs and showcases which will include looking at a least 4 wedding bands.
 
-## Updates Since The Instructional Video
+With this in mind we are aware of creating an emotional response in our wedding couples in order for them to commit to a booking. To do this we have laid out our website elegantly and simply with clean sharp imagery of our band conveying an exciting atmosphere. Our live video is key here and the songs are very important. They must appeal to a wide tartget audience and come across and slick, exciting, charismatic and well rehearsed. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+At this point we will guide the couples to complete our booking form or at the very least enquire about a possible booking.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## User 3 - Fans and followers
+This type of user is just as important as any other as one of the things potential clients will check is out social media accounts as it evokes trust and brand awareness. Potential clients will be looking at how many followers the band have aswell as extra images from past live events. It is vital we use our website to push our presence on social media platforms such as facebook and instagram.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Many of our audiences from past events tend to follow us on social media the next day and comment on pictures we post from the events they attended. We have decided our website is a great option to reinforce this behaviour. We have incorporated an ABOUT US page where visitors can learn more about each member of the band and any of our upcoming shows. 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+To encourage new visitors landing on our website to follow us on facebook we have created a competiton form on our Home page with a link to facebook encouraging users to like and follow us.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
