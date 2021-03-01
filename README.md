@@ -37,3 +37,9 @@ Many of our audiences from past events tend to follow us on social media the nex
 
 To encourage new visitors landing on our website to follow us on facebook we have created a competiton form on our Home page with a link to facebook encouraging users to like and follow us.
 
+## UX Design and Mock Ups
+To keep in line with the syle expected from weddings and corporate events we have kept the website design simple and clean with the main background being white with charcoal text that is well spaced. 
+We have relied on exciting images of live music and red theme for our call to action buttons. 
+We have used fixed scrolling navigation menu to minimize user scrolling
+
+The following link show our mockups designed using balsamiq. [wireframes](./assets/wireframes/mockups.pdf)
